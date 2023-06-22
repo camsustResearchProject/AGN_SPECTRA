@@ -43,8 +43,5 @@ Thank you for your interest in our project.
 
 Sincerely,
 
-Sakibul Islam Rayhan
+Sakibul Islam Rayhan 
 Research and Project Secretary, CAM-SUST
-
-Nusrath Jahan Milie 
-Assistant Research and Project Secretary, CAM-SUST 
