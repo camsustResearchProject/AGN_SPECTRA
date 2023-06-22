@@ -8,15 +8,15 @@ Start Date: January 1, 2023
 End Date: June 30, 2023
 
 ## Project Team
-Mentor: Imtiaz Ahmed (SUST-PHY)
-Research and Project Secretary: Sakibul Islam Rayhan
+Mentor: Imtiaz Ahmed (SUST-PHY) <br>
+Research and Project Secretary: Sakibul Islam Rayhan <br>
 Assistant Research and Project: Nusrath Jahan Milie
 
 ## Team Members:
-KM Shariat Ullah (SUST-EEE)
-Nusrath Jahan Milie (SUST-PHY)
-Sakibul Islam Rayhan (SUST-EEE)
-Rahul Dev Sharma (SUST-PHY)
+KM Shariat Ullah (SUST-EEE) <br>
+Nusrath Jahan Milie (SUST-PHY) <br>
+Sakibul Islam Rayhan (SUST-EEE) <br>
+Rahul Dev Sharma (SUST-PHY) 
 
 ## Objectives
 The main objectives of the AGN Spectra project were:
@@ -43,5 +43,5 @@ Thank you for your interest in our project.
 
 Sincerely,
 
-Sakibul Islam Rayhan 
+Sakibul Islam Rayhan <br>
 Research and Project Secretary, CAM-SUST
