@@ -4,8 +4,8 @@
 The AGN Spectra project was undertaken to study Active Galactic Nuclei (AGN) and determine the mass of the black hole using AGN data. This project aimed to explore the spectral properties of AGN and investigate their implications in understanding the physics of black holes.
 
 ## Project Details
-Start Date: January 1, 2023 <br>
-End Date: June 30, 2023
+Start Date: January 1, 2023. <br>
+End Date: June 30, 2023.
 
 ## Project Team
 Mentor: Imtiaz Ahmed (SUST-PHY) <br>
